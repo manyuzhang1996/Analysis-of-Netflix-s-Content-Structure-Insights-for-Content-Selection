@@ -29,7 +29,8 @@ There are three datasets for this project.
 <img src="images/data sources intro.png" width = "1000">
 
 ## Methodology
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="images/flowchart.png" width="1000">
+
 
 
 ## Run Locally
