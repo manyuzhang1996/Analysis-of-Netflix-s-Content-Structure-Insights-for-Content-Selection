@@ -3,8 +3,8 @@
 
 A project analyzes Netflix's content structure through comparison with audience's expectation on UGC platform Rotten Tomatoes and IMDb.
 
+<img src="images/title page.png" width = "1000">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Abstract
@@ -26,8 +26,8 @@ There are three datasets for this project.
 
 - IMDb Dataset: https://www.kaggle.com/datasets/rakkesharv/imdb-5000-movies-multiple-genres-dataset  
 
+<img src="images/data sources intro.png" width = "1000">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## Methodology
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
@@ -37,7 +37,7 @@ There are three datasets for this project.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/manyuzhang1996/Analysis-of-Netflix-s-Content-Structure-Insights-for-Content-Selection.git
 ```
 
 ## Contact
